@@ -1,1 +1,2 @@
 # odin-recipes
+A simple website using only HTML for a recipes. HTML foundational skills such as lists (ordered and unordered), links, image, em and strong tags will be used to create this webpage. Git commands and commits will also be reinforced for myself throughout this project.
