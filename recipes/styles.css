@@ -1,0 +1,33 @@
+#title{
+    background: yellow;
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: "Helvetica" "Times New Roman" "sans-serif";
+}
+
+.ingredients:nth-child(odd) {
+    background: red;
+    color: white;
+    font-family: "Helvetica" "Times New Roman" "sans-serif";
+    font-size: 28px;
+}
+
+p:nth-child(odd) {
+    font-size: 24px;
+    background: pink;
+    font-family: "Verdana", DejaVu Sans, "sans-serif";
+    color: blue;
+}
+
+p:nth-child(even) {
+    background: green;
+    color: white;
+    font-size: 24px;
+}
+
+button {
+    background: orange;
+    font-size: 24px;
+}
